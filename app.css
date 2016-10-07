@@ -1,0 +1,53 @@
+#searchTerm {
+    width: 300px;
+    margin-right: 10px;
+    
+}
+
+.container {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.well {
+  font-family: "Times New Roman";
+  background-color: #454545;
+}
+
+.well h2, p{
+  color: white;
+}
+
+.title h1{
+  font-family: "Times New Roman";
+  margin-bottom: 20px;
+  float: right;
+}
+
+.title {
+  display: inline-block;
+  padding-bottom: 5px;
+}
+.title-wrapper {
+  text-align: center;
+}
+#wiki-icon {
+  height: 80px;
+  width: 80px;
+  float: left;
+}
+
+.search-box-wrapper {
+  text-align: center;
+}
+
+.search-box{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 auto;
+}
+
+#search {
+  margin-right: 10px;
+}
